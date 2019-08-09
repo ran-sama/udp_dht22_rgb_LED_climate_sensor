@@ -3,13 +3,13 @@ Sends UDP packets with humidity value and display traffic light style color code
 
 In terminal:
 
-![alt text](https://raw.githubusercontent.com/ran-sama/udp_dht22_rgb_LED_climate_sensor/master/listener_preview.png)
+![alt text](https://raw.githubusercontent.com/ran-sama/udp_dht22_rgb_LED_climate_sensor/master/images/listener_preview.png)
 
 Good humidity (between 40-60%): 
-![alt text](https://raw.githubusercontent.com/ran-sama/udp_dht22_rgb_LED_climate_sensor/master/green.jpg)
+![alt text](https://raw.githubusercontent.com/ran-sama/udp_dht22_rgb_LED_climate_sensor/master/images/green.jpg)
 
 Bad humidity (greater 60%): 
-![alt text](https://raw.githubusercontent.com/ran-sama/udp_dht22_rgb_LED_climate_sensor/master/red.jpg)
+![alt text](https://raw.githubusercontent.com/ran-sama/udp_dht22_rgb_LED_climate_sensor/master/images/red.jpg)
 
 Low humidity (under 40%) not shown, left LED turns blue. 
 
